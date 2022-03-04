@@ -1,3 +1,3 @@
-# Presentation_And_Infographic_On_Airline_Safety_And_Statistics
+# Airline_Safety_And_Statistics_Presentation/Blogpost
 My Presentation on  Aviation Safety & Statistics is  composed of 5 slides which included information on airline industry basic facts, airline accident numbers throughout history, fatalities, airline vs. other transportation methods, impact of COVID-19, followed by scientifically proven research and recommendations from the Harvard University School of Public Health. My Infographics on  Aviation Safety & Statistics will help convince you how flying is the safest method of transportation. 
 A link to my Infographic: https://venngage.net/ps/YMe7f9nem5c/flying-is-safe
